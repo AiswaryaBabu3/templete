@@ -1,0 +1,24 @@
+*{margin: 0; padding: 0;}
+.cities {
+    background-color: dimgray;
+    height: 250px;
+    width: 100%;
+}
+.gray {
+    background-color: grey;
+    height: 400px;
+    width: 20%;
+    float:left
+}
+.white {
+    background-color:darkgray;
+    height: 400px;
+    width: 80%;
+    float:left
+}
+.darkgray {
+    background-color: dimgray;
+    height: 150PX;
+    width: 100%;
+    float: left;
+}
