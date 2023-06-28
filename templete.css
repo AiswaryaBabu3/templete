@@ -1,0 +1,443 @@
+*{margin: 0; padding: 0;}
+.t1{
+    background-color:white;
+    height: 3050px;
+    width: 100%;
+}
+.header {
+    background-color: black;
+    height: 80px;
+    position: sticky;
+    top: 0;
+    max-width: 100%;
+    margin: auto;
+}
+
+.contact {
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    float: right;
+    margin: 20px 10px;
+    font-weight: 200;
+}
+.service {
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    float: right;
+    margin: 20px 10px;
+    font-weight:200;
+}
+.gallery {
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    float: right;
+    margin: 20px 10px;
+    font-weight:200;
+}
+.home {
+    font-size:larger;
+    font-family: 'Times New Roman', Times, serif;
+    color: white;
+    float: right;
+    margin: 20px 10px;
+    font-weight:200;
+}
+.home1 {
+    background-image:url(./images/banner-bg.png);
+    background-size:cover;
+    background-repeat: no-repeat;
+    height: 600px;
+    width: 100%;
+    margin: 0px;
+    float: left;
+}
+.total{
+    height: 3440px;
+    width: 80%;
+    margin: 0% 10%;
+    }
+.coffeeshop {
+    width: 80%;
+    height: 520px;
+    margin:5% 10%;
+}
+.learnmore {
+    height: 60px;
+    width: 15%;
+    float: left;
+    margin: 30px 0px;
+    background-color: rgb(46, 45, 45);
+    color: white;
+    text-align: center;
+    font-size: large;
+    }
+.arrow {
+    height: 50px;
+    width: 15%;
+    margin-top: 8%;
+    margin-left: 45%;
+}
+.arrowright{
+    background-color: aliceblue;
+    float: left;
+    width: 35%;
+    height: 50px;
+}
+.arrowleft{
+    background-color: white;
+    float: right;
+    width: 35%;
+    height: 50px;
+}
+.aboutimage {
+    background-image: url(./images/images/about-img.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 550px;
+    width: 48%;
+    float: right;
+    margin-top: 100px;
+}
+.aboutus {
+    height: 350px;
+    width: 50%;
+    float: left;
+    margin-top: 200px;
+    }
+.readmore{
+height: 52px;
+width: 27%;
+background-color: black;
+color: white;
+text-align: center;
+font-size: large;
+}
+.about {
+    height: 1200px;
+    width: 100%;
+    margin-top: 10%;
+}
+.ourgallery{
+    width: 100%;
+    height: 1600px;
+    margin-top: 5%;
+}
+.g{
+    background-image: url(./images/images/img-1.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   width:30%;
+    height: 350px;
+    margin:40px 28px 10px 0px;
+    float: left;
+}
+.g:hover{
+    opacity: 0.5;
+}
+.g1{
+    background-image: url(./images/images/img-2.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+   width: 30%;
+    height: 350px;
+    margin: 40px 28px;
+    float: left;
+}
+.g1:hover{
+    opacity: 0.5;
+}
+.g2{
+    background-image: url(./images/images/img-3.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin: 40px 0px 40px 28px;    
+    float: left;
+}
+.g2:hover{
+    opacity: 0.5;
+}
+.g3{
+    background-image: url(./images/images/img-4.png);    
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin:40px 28px 10px 0px;
+    float: left;
+}
+.g3:hover{
+    opacity: 0.5;
+}
+.g4{
+    background-image: url(./images/images/img-5.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin: 40px 28px;
+    float: left;
+}
+.g4:hover{
+    opacity: 0.5;
+}
+.g5{
+    background-image: url(./images/images/img-6.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin: 40px 0px 40px 28px;    
+    float: left;
+}
+.g5:hover{
+    opacity: 0.5;
+}
+.g6{
+    background-image: url(./images/images/img-7.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin:40px 28px 10px 0px;
+    float: left;
+}
+.g6:hover{
+    opacity: 0.5;
+}
+.g7{
+    background-image: url(./images/images/img-8.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin: 40px 28px;
+    float: left;
+}
+.g7:hover{
+    opacity: 0.5;
+}
+.g8{
+    background-image: url(./images/images/img-9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 30%;
+    height: 350px;
+    margin: 40px 0px 40px 28px;    
+    float: left;
+}
+.g8:hover{
+    opacity: 0.5;
+}
+.seemore {
+    background-color:black;
+    height: 50px;
+    width: 15%;
+    color: white;
+    text-align: center;
+    font-size: large;   
+    float: left;
+    margin-left: 40%;
+    margin-top: 5%;
+}
+.services{
+    height: 600px;
+    width: 100%;
+}
+.s1{
+    background-color: rgb(255, 128, 0);
+    width: 30%;
+    height: 250px;
+    margin:40px 28px 10px 0px;
+    float: left;
+    color: white;
+}
+.s1:hover{
+    background-color: white;
+    color: black;
+    height: 320px;
+}
+.s2{
+    background-color: rgb(255, 128, 0);
+    width: 30%;
+    height: 250px;
+    margin: 40px 28px;
+    float: left;
+    color: white;
+}
+.s2:hover{
+    background-color: white;
+    color: black;
+    height: 320px;
+}
+.s3 {
+    background-color: rgb(255, 128, 0);
+    width: 30%;
+    height: 250px;
+    margin: 40px 0px 40px 28px;    
+    float: left;
+    color: white;
+}
+.s3:hover{
+    background-color: white;
+    color: black;
+    height:320px;
+}
+.t2{
+    background-color: white;
+    width: 100%;
+    height: 1750px;
+}
+.testimonial {
+    width: 80%;
+    margin: 0% 10%;
+    height: 500px; 
+}
+.tes1{
+    height: 130px;
+    width: 85%;
+    margin-left: 100px;
+    margin-top: 50px;
+}
+.c1{
+    width: 5%;
+    height: 17px;
+    border-radius: 25px;
+    margin-left:470px ;
+    margin-top: 60px;
+    float: left;
+    background-color: black;
+}
+.c2 {
+    background-color: black;
+    width: 5%;
+    height: 17px;
+    border-radius: 25px;
+    margin-top: 60px;
+    float: left;
+    margin-left: 10px;
+}
+.c3 {
+    background-color: black;
+    width: 5%;
+    height: 17px;
+    border-radius: 25px;
+    margin-top: 60px;
+    float: left;
+    margin-left: 10px;
+}
+.con1{
+    width: 100%;
+    height: 500px;
+    margin: 0px;
+    float: left;
+}
+.coffeeimage {
+    background-image: url(./images/images/img-9.png);
+    background-repeat: no-repeat;
+    background-size: cover;
+    width: 50%;
+    height: 600px;
+    float: left;
+}
+.map {
+    width: 50%;
+    height: 600px;
+    float: left;
+    background-color: rgb(195, 192, 192);
+}
+.name {
+    width: 75%;
+    background-color: white;
+    margin: 50px;    
+    border-radius: 25px;
+    padding: 20px;
+    color: gray;
+}
+.email {
+    width: 75%;
+    background-color: white;
+    margin-top: -30px; 
+    margin-left: 50px;   
+    border-radius: 25px;
+    padding: 20px;
+    color: gray;
+}
+.phno {
+    width: 75%;
+    background-color: white;
+    margin-top:20px; 
+    margin-left: 50px;   
+    border-radius: 25px;
+padding: 20px;
+    color: gray;
+}
+.message {
+    width: 75%;
+    height: 100px;
+    margin-top:20px; 
+    margin-left: 50px;   
+    border-radius: 50px;
+    background-color: white;
+    padding: 25px;
+    color: gray;
+}
+.black {
+    background-color: rgb(29, 28, 28);
+    width: 100%;
+    height: 400px;
+    margin-top: 10px;
+    float: left;
+}
+.b1 {
+    width: 20%;
+    height: 280px;
+    float: left;
+    margin-left: 70px;
+    margin-top: 100px;
+    line-height: 25px;
+}
+.b2 {
+    width: 20%;
+    height: 280px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    line-height: 25px;
+}
+.b3 {
+    width: 20%;
+    height: 280px;
+    float: left;
+    margin-top: 100px;
+    line-height: 25px;
+}
+.b4{
+    width: 15%;
+    height: 280px;
+    float: left;
+    margin-top: 100px;
+    margin-left: 50px;
+    line-height: 15px;
+}
+.send{
+    width: 15%;
+    margin-top: 20px;
+    margin-left: 250px;
+    background-color: orangered;
+    text-align: center;
+    padding: 15px;
+    font-size: larger;
+    border-radius: 25px;
+    color: white;
+}
+.send:hover{
+    background-color: white;
+    color: black;
+}
+
+   
